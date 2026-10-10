@@ -222,7 +222,7 @@ async function icon(Comp, color = "#FFFFFF", size = 512) {
   divider(2, "Integrity", "integrity");
   const S2 = "2. Sow Integrity";
   verseSlide(S2, { ref: "1 Timothy 4:7–8 (NIV)", iconKey: "godly", color: C.accent2, size: 32,
-    text: "Have nothing to do with godless myths and old lives' tales; rather, [[train yourself to be godly]].  For physical training is of some value, but [[godliness has value for all things]], holding promise for both the present life and the life to come." });
+    text: "Have nothing to do with godless myths and old wives' tales; rather, [[train yourself to be godly]].  For physical training is of some value, but [[godliness has value for all things]], holding promise for both the present life and the life to come." });
   {
     const rows = [
       ["bible", [{ text: "The Bible says, " }, { text: "“Train yourself to be godly.”", options: { italic: true } }]],
